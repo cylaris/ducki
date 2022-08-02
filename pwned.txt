@@ -1,0 +1,7 @@
+1337 <- Cylaris -> 1337
+
+You were attacked using a rubber ducky. This is a type of physical HID attack, that interacts with your device via a USB cable. 
+
+Next time be careful what devices you plug into your host, because then it might be dangerous.
+
+Cylaris Threat Research
